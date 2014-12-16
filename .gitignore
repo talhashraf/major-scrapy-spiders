@@ -1,0 +1,9 @@
+# Git
+.*
+!/.gitignore
+
+# Project Specific
+*.json
+*.egg-*/
+*.sublime-*
+*.pyc
