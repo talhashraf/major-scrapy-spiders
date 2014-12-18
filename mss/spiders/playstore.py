@@ -1,4 +1,3 @@
-import re
 from urlparse import urljoin
 
 from scrapy import Spider, Item, Field
